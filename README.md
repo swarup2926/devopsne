@@ -1,2 +1,2 @@
 # appa
-my first respiatory project
+my first respository project
